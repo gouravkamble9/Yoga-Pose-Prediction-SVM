@@ -59,6 +59,7 @@ The live.v file provides functionality for real-time pose estimation and live pr
 To use this project, follow these steps:
 
 - Prepare your dataset: Collect images of the 18 different yoga poses and organize them in a specific directory structure.
+
 ![image](https://github.com/gouravkamble9/Yoga-Pose-Prediction-SVM/assets/61933116/5aaaf8fc-8125-4bfe-a22f-75ced3784a43)
 
 - Run `angle_csv.ipynb`: Execute this file to extract angles from the dataset and save them to a CSV file.
